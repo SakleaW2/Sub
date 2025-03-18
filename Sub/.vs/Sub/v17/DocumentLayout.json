@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\u0411\u043E\u0433\u0434\u0430\u043D\\Desktop\\sub\\Sub\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{793DE86C-5F4F-4489-907E-C5CCF157B9D7}|LiveSubtitlesApp\\LiveSubtitlesApp.csproj|c:\\users\\\u0431\u043E\u0433\u0434\u0430\u043D\\desktop\\sub\\sub\\livesubtitlesapp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{793DE86C-5F4F-4489-907E-C5CCF157B9D7}|LiveSubtitlesApp\\LiveSubtitlesApp.csproj|solutionrelative:livesubtitlesapp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{793DE86C-5F4F-4489-907E-C5CCF157B9D7}|LiveSubtitlesApp\\LiveSubtitlesApp.csproj|c:\\users\\\u0431\u043E\u0433\u0434\u0430\u043D\\desktop\\sub\\sub\\livesubtitlesapp\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{793DE86C-5F4F-4489-907E-C5CCF157B9D7}|LiveSubtitlesApp\\LiveSubtitlesApp.csproj|solutionrelative:livesubtitlesapp\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\\u0411\u043E\u0433\u0434\u0430\u043D\\Desktop\\sub\\Sub\\LiveSubtitlesApp\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "LiveSubtitlesApp\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\\u0411\u043E\u0433\u0434\u0430\u043D\\Desktop\\sub\\Sub\\LiveSubtitlesApp\\MainWindow.xaml",
+              "RelativeToolTip": "LiveSubtitlesApp\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-18T20:09:22.819Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\\u0411\u043E\u0433\u0434\u0430\u043D\\Desktop\\sub\\Sub\\LiveSubtitlesApp\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "LiveSubtitlesApp\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\\u0411\u043E\u0433\u0434\u0430\u043D\\Desktop\\sub\\Sub\\LiveSubtitlesApp\\MainWindow.xaml.cs",
+              "RelativeToolTip": "LiveSubtitlesApp\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T20:09:22.757Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 242,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

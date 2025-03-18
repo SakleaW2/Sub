@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "NW0QhaosVOI=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Богдан\\Desktop\\sub\\Sub\\WpfApp1\\WpfApp1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Богдан\\.nuget\\packages\\microsoft.cognitiveservices.speech\\1.42.0\\microsoft.cognitiveservices.speech.1.42.0.nupkg.sha512",
+    "C:\\Users\\Богдан\\.nuget\\packages\\python\\3.13.2\\python.3.13.2.nupkg.sha512"
+  ],
+  "logs": []
+}
